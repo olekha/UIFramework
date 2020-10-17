@@ -1,0 +1,2 @@
+C:\Users\saxar\source\repos\UIFramework\x64\Debug\UIFramework.exe
+C:\Users\saxar\source\repos\UIFramework\x64\Debug\UIFramework.pdb
